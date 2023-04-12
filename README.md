@@ -5,6 +5,7 @@
 ---
 
 + lab1 ([Лаба №1](https://github.com/Dante1902/Tort-Al/tree/laba%231))
++ lab2 ([Лаба №2](https://github.com/Dante1902/Tort-Al/tree/lab2))
 
 Для работы ***lab1*** потребуются следующие библиотеки: 
 
@@ -12,4 +13,10 @@
 import os
 import socket
 import re, uuid
+```
+
+Необходимые библиотеки для работы ***lab2***: 
+```python
+import socket
+import sys
 ```
