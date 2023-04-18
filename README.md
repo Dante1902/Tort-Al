@@ -6,8 +6,9 @@
 
 + lab1 ([Лаба №1](https://github.com/Dante1902/Tort-Al/tree/laba%231))
 + lab2 ([Лаба №2](https://github.com/Dante1902/Tort-Al/tree/lab2))
++ lab3 ([Лаба №3](https://github.com/Dante1902/Tort-Al/tree/lab3))
 
-Для работы ***lab1*** потребуются следующие библиотеки: 
+Для работы ***lab1.py*** потребуются следующие библиотеки: 
 
 ```python
 import os
@@ -15,8 +16,13 @@ import socket
 import re, uuid
 ```
 
-Необходимые библиотеки для работы ***lab2***: 
+Необходимые библиотеки для работы ***lab2.py***: 
 ```python
 import socket
 import sys
+```
+Необходимо библиотеки для работы ***lab3.py***:
+
+```python 
+import requests
 ```
