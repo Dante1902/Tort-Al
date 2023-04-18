@@ -8,6 +8,7 @@
 + lab2 ([Лаба №2](https://github.com/Dante1902/Tort-Al/tree/lab2))
 + lab3 ([Лаба №3](https://github.com/Dante1902/Tort-Al/tree/laba%233))
 + lab4 ([Лаба №4](https://github.com/Dante1902/Tort-Al/tree/laba%234))
++ lab5 ([Лаба №5](https://github.com/Dante1902/Tort-Al/tree/laba%234))
 
 Для работы ***lab1.py*** потребуются следующие библиотеки: 
 
@@ -34,4 +35,16 @@ import requests
 ```python 
 import requests
 from bs4 import BeautifulSoup
+```
+
+Необходимые библиотеки для работы ***lab5.py***:
+
+Необходимые библиотеки для работы: 
+```python
+import ftplib
+import os
+import time
+from tkinter import filedialog
+import tkinter
+import tabulate
 ```
