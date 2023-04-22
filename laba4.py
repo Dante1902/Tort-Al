@@ -12,16 +12,16 @@ else:
 	ls =BeautifulSoup(HTML_cd,"html.parser") #парсинг html документа
 	Lesson = ls.findAll('td') # td - столбец
 	
-	file = open ("Timetable.txt", "w") # запись в файл
+	file = open ("Raspisanie.txt", "w") # запись в файл
 	for item in Lesson:
 		file.write(item.text +"\n")
 	file.close()
 
-	line = open ("Timetable.txt").readlines()
+	line = open ("Raspisanie.txt").readlines()
 	for i in range(104):
 		line.pop(0)
 	
-	a = open ("Timetable.txt", "w")
+	a = open ("Raspisanie.txt", "w")
 	for i in line:
 		a.write(i)
 	a.close()
