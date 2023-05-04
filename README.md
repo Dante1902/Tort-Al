@@ -4,12 +4,6 @@
 
 ---
 
-+ lab1 ([Лаба №1](https://github.com/Dante1902/Tort-Al/tree/laba%231))
-+ lab2 ([Лаба №2](https://github.com/Dante1902/Tort-Al/tree/lab2))
-+ lab3 ([Лаба №3](https://github.com/Dante1902/Tort-Al/tree/laba%233))
-+ lab4 ([Лаба №4](https://github.com/Dante1902/Tort-Al/tree/laba%234))
-+ lab5 ([Лаба №5](https://github.com/Dante1902/Tort-Al/tree/laba%235))
-
 Для работы ***lab1.py*** потребуются следующие библиотеки: 
 
 ```python
