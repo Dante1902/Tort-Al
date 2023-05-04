@@ -28,6 +28,8 @@ from flask import *
 
 ввести команду:
 ***ngrok config add-authtok ВАШ_ТОКЕН*** (токен см. на сайте во вкладке *Setup & Installation*)
+
 Затем ввести команду: 
 ***ngrok http 8000***
+
 В разделе Forwarding появится ссылка на ваш веб-сервер. 
