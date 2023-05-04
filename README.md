@@ -4,41 +4,20 @@
 
 ---
 
-Для работы ***lab1.py*** потребуются следующие библиотеки: 
+Для работы ***start_server_windows.py*** потребуются следующие библиотеки: 
 
 ```python
-import os
-import socket
-import re, uuid
+from http.server import HTTPServer, CGIHTTPRequestHandler
 ```
 
-Необходимые библиотеки для работы ***lab2.py***: 
+Необходимые библиотеки для работы ***obrabotka.py***: 
 ```python
-import socket
-import sys
+import cgi
 ```
 
-Необходимо библиотеки для работы ***lab3.py***:
+Необходимо библиотеки для работы ***Upload.py***:
 
 ```python 
-import requests
-```
-
-Необходимо библиотеки для работы ***lab4.py***:
-
-```python 
-import requests
-from bs4 import BeautifulSoup
-```
-
-Необходимые библиотеки для работы ***lab5.py***:
-
-Необходимые библиотеки для работы: 
-```python
-import ftplib
-import os
-import time
-from tkinter import filedialog
-import tkinter
-import tabulate
+import cgi
+from flask import * 
 ```
