@@ -1,7 +1,6 @@
 # Sidworks - Photography Portfolio Website
 
-A photography portfolio website for a photographer
-Preview: http://sidworks.tk/
+A photography portfolio website 
 
 
 
